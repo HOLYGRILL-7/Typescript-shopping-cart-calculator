@@ -1,3 +1,5 @@
 node_modules/
 dist/
 *.js
+
+echo 'set enable-bracketed-paste off' >> ~/.inputrc
